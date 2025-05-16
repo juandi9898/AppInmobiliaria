@@ -9,7 +9,7 @@ interface ContactButtonsProps {
 const ContactButtons: React.FC<ContactButtonsProps> = ({ phoneNumber, name }) => {
   const handleWhatsAppClick = () => {
     // Format the WhatsApp URL
-    const whatsappUrl = `https://wa.me/${phoneNumber}`;
+    const whatsappUrl = `https://wa.me/57${phoneNumber}`;
     window.open(whatsappUrl, '_blank');
   };
 
