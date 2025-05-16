@@ -10,7 +10,7 @@ const propertyImages = [
   'https://cdn2.infocasas.com.uy/repo/img/th.outside500x260.66aab19eccfe8_infocdn__ue12zg3kvxuaaraf4sbqhzonhdbhqewqyvrzmujajpg.jpg',
   'https://previews.123rf.com/images/niserin/niserin2107/niserin210700363/171359089-sala-de-estar-en-un-peque%C3%B1o-apartamento-moderno-dise%C3%B1o-de-interiores.jpg',
   'https://vivienda.s3.us-east-2.amazonaws.com/properties/NzE0ZWQwYmMtZmEzMC00ZjY1LWIxYjItOGQ1NjAwYmE0NWJh/714ed0bc-fa30-4f65-b1b2-8d5600ba45ba/8666978c-81e8-4b96-a46b-d5cfa2e77f95.jpeg',
-  'https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg',
+  'https://vivienda.s3.us-east-2.amazonaws.com/properties/NzE0ZWQwYmMtZmEzMC00ZjY1LWIxYjItOGQ1NjAwYmE0NWJh/714ed0bc-fa30-4f65-b1b2-8d5600ba45ba/8666978c-81e8-4b96-a46b-d5cfa2e77f95.jpeg',
   'https://media.istockphoto.com/id/1369517702/es/foto/comedor-con-mesa-de-madera-y-suelo-en-apartamento-moderno.jpg?s=612x612&w=0&k=20&c=uwLgOU2d4H8u-RLXorbi1Si2RAokHZCGDiYJUuForsE=',
 ];
 
