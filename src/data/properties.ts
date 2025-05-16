@@ -2,15 +2,16 @@ import { Property } from '../types';
 
 // Using stock photos from Pexels for property images
 const propertyImages = [
-  'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg',
-  'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg',
-  'https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg',
-  'https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg',
-  'https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg',
-  'https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg',
-  'https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg',
-  'https://images.pexels.com/photos/1105754/pexels-photo-1105754.jpeg',
+  'https://pics.nuroa.com/casa_remodelada_en_venta_villa_vergel_serca_a_la_vipri_de_la_universidad_de_nari%C3%B1o_1510000746535749292.jpg',
+  'https://pics.nuroa.com/casa_remodelada_en_venta_villa_vergel_serca_a_la_vipri_de_la_universidad_de_nari%C3%B1o_1510000746535749292.jpg',
+  'https://cf.bstatic.com/xdata/images/hotel/max1024x768/603091907.jpg?k=0083f8437ded0878a93cedcb61865d98aa1b8f6f3c44014c1c17527051192054&o=&hp=1',
+  'https://cf.bstatic.com/xdata/images/hotel/max1024x768/603091907.jpg?k=0083f8437ded0878a93cedcb61865d98aa1b8f6f3c44014c1c17527051192054&o=&hp=1',
+  'https://cdn2.infocasas.com.uy/repo/img/th.outside500x260.66aab19eccfe8_infocdn__ue12zg3kvxuaaraf4sbqhzonhdbhqewqyvrzmujajpg.jpg',
+  'https://cdn2.infocasas.com.uy/repo/img/th.outside500x260.66aab19eccfe8_infocdn__ue12zg3kvxuaaraf4sbqhzonhdbhqewqyvrzmujajpg.jpg',
+  'https://previews.123rf.com/images/niserin/niserin2107/niserin210700363/171359089-sala-de-estar-en-un-peque%C3%B1o-apartamento-moderno-dise%C3%B1o-de-interiores.jpg',
+  'https://vivienda.s3.us-east-2.amazonaws.com/properties/NzE0ZWQwYmMtZmEzMC00ZjY1LWIxYjItOGQ1NjAwYmE0NWJh/714ed0bc-fa30-4f65-b1b2-8d5600ba45ba/8666978c-81e8-4b96-a46b-d5cfa2e77f95.jpeg',
   'https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg',
+  'https://media.istockphoto.com/id/1369517702/es/foto/comedor-con-mesa-de-madera-y-suelo-en-apartamento-moderno.jpg?s=612x612&w=0&k=20&c=uwLgOU2d4H8u-RLXorbi1Si2RAokHZCGDiYJUuForsE=',
 ];
 
 export const properties: Property[] = [
@@ -80,7 +81,7 @@ export const properties: Property[] = [
     ubicacion: "La Rosa",
     precio: 380000000,
     descripcion: "Apartamento nuevo en edificio con ascensor en La Rosa.",
-    imagenes: [propertyImages[0], propertyImages[1]],
+    imagenes: [propertyImages[9]],
     contacto: {
       nombre: "Ana Cárdenas",
       numero: "3105544332"
